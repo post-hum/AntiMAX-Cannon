@@ -16,7 +16,7 @@ AntiMAX-Cannon — инструмент для засорения аналити
 
 ```bash
 git clone https://github.com/post-hum/AntiMAX-Cannon.git
-cd antimax-cannon
+cd AntiMAX-Cannon
 pip install requests
 ```
 
